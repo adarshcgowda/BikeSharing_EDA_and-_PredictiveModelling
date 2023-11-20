@@ -1,7 +1,5 @@
 # BikeSharing_EDA_and_PredictiveModelling
 
-Hi there 🖐, Excited to share my latest project diving deep into bike sharing data! From exploratory analysis to predictive modeling, uncovering insights that pedal us towards a better understanding of ridership trends and future possibilities.
-
 1. Background:
 
 Bike sharing systems are new generation of traditional bike rentals where whole process from membership, rental and return back has become automatic. Through these systems, user is able to easily rent a bike from a particular position and return back at another position.
