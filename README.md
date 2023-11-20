@@ -1,4 +1,4 @@
-# BikeSharing_EDA_and-_PredictiveModelling
+# BikeSharing_EDA_and_PredictiveModelling
 
 Hi there 🖐, Excited to share my latest project diving deep into bike sharing data! From exploratory analysis to predictive modeling, uncovering insights that pedal us towards a better understanding of ridership trends and future possibilities.
 
